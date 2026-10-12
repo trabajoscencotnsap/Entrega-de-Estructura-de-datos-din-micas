@@ -1,0 +1,11 @@
+C:\User\Estructuras> g++ Main.cpp -o programa
+C:\User\Estructuras> ./programa
+--- PRUEBAS DE ESTRUCTURAS DINAMICAS ---
+[LISTA] Insertado: 100
+[LISTA] Buscando 100... Resultado: Encontrado
+[PILA] Push: 50
+[PILA] Pop realizado exitosamente.
+[COLA] Encolado: 10
+[COLA] Desencolado: 10. Cola vacia.
+-----------------------------------------
+Proceso finalizado con éxito (Memory Clean).
